@@ -1,0 +1,22 @@
+{
+    "name": "beaten-sect0r/yii2-sypexdumper",
+    "description": "Sypex Dumper for yii2 framework",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","sypexdumper"],
+    "license": "BSD-4-Clause",
+    "authors": [
+        {
+            "name": "Alexander Volkov",
+            "email": "beatensect0r@gmail.com",
+            "homepage": "http://fault.ws"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "bs\\sypexdumper\\": ""
+        }
+    }
+}
